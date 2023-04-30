@@ -33,10 +33,10 @@ for i in range(1,11):
 
         elif s!=a and p==a:
             print("You are WIN")
-            print("Computer was give Paper")
+            print("Computer was gave Paper")
         elif r == a:
             print("You are LOSS")
-            print("Computer was give Rock")
+            print("Computer was gave Rock")
 
 
 
